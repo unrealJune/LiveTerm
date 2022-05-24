@@ -1,21 +1,16 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "June's Portfolio",
+  "name": "June Philip",
+  "ascii": "JunePhilip",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "ToshBoss"
   },
-  "email": "contact@email.com",
+  "email": "mail.junephilip@gmail.com",
   "ps1_hostname": "liveterm",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/unrealJune",
+  "resume_url": "https://docs.google.com/document/d/1n-n4R1PVXHiHazHO0s1skdxgtIKX8pxj/edit?usp=sharing&ouid=112454999915562396127&rtpof=true&sd=true",
   "colors": {
     "light": {
       "background": "#FBF1C9",
