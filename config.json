@@ -1,34 +1,35 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "June's Portfolio",
+  "readmeUrl": "https://raw.githubusercontent.com/unrealJune/unrealJune/main/README.md",
+  "title": "unrealJune",
   "name": "June Philip",
   "ascii": "JunePhilip",
   "social": {
     "github": "ToshBoss"
   },
+  "projects_url": "https://docs.google.com/document/d/1n-n4R1PVXHiHazHO0s1skdxgtIKX8pxj/edit#bookmark=id.dygzab8pg5fi",
   "email": "mail.junephilip@gmail.com",
-  "ps1_hostname": "liveterm",
+  "ps1_hostname": "portfolio",
   "ps1_username": "visitor",
   "repo": "https://github.com/unrealJune",
   "resume_url": "https://docs.google.com/document/d/1n-n4R1PVXHiHazHO0s1skdxgtIKX8pxj/edit?usp=sharing&ouid=112454999915562396127&rtpof=true&sd=true",
   "colors": {
     "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
+      "background":"#282B35",
+      "foreground":"#939599",
+      "blue":"#00A0BE",
+      "green":"#6df1d8",
+      "red":"#ef9af2",
+      "yellow":"#438288",
+      "grey": "#00A0BE"
     },
     "dark": {
-      "background": "#2E3440",
-      "foreground": "#E5E9F0",
-      "yellow": "#5E81AC",
-      "green": "#A3BE8C",
-      "gray": "#88C0D0",
-      "blue": "#EBCB8B",
-      "red": "#BF616A"
+      "background":"#282B35",
+      "foreground":"#939599",
+      "blue":"#00A0BE",
+      "green":"#6df1d8",
+      "red":"#ef9af2",
+      "yellow":"#438288",
+      "grey": "#00A0BE"
     }
   }
 }

@@ -157,6 +157,16 @@
       "gray": "#815BA4",
       "blue": "#06B6EF",
       "red": "#EF6155"
+    },
+    "xcode":{
+      "background":"#282B35",
+      "foreground":"#939599",
+      "blue":"#00A0BE",
+      "green":"#DF0002",
+      "red":"#B21889",
+      "yellow":"#438288",
+      "grey": "#00A0BE"
     }
+    
   }
 }
