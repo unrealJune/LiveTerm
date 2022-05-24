@@ -16,6 +16,7 @@ jobs:
     steps:
       - name: Setup Node.js environment
       - uses: actions/setup-node@v3.2.0
+      - run: npm ci
       - uses: actions/checkout@v2
       - run: npm run build
       - uses: FirebaseExtended/action-hosting-deploy@v0
