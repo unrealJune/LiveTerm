@@ -41,6 +41,17 @@ More about me:
 
 export const projects = async (args: string[]): Promise<string> => {
   return ` 
+
+  Chevron Corporation - Software Engineering Intern
+  \tWorked on an agile release train to complete assigned
+  \tsprint backlogs for an Angular based application with a .NET backend.
+  \tNotably, worked with an international team in Kazakhstan
+  \tto localize live production applications to Kazakh
+  \tand Russian, with i18n compliant code.
+  
+  \tSummer 2022 | Houston, TX
+
+
   Capital Educators - SAT/ACT Teacher
   \tProfessionally taught small, skill level separated
   \tgroups of high schoolers comprehensive strategies 
