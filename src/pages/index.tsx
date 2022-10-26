@@ -38,6 +38,7 @@ const IndexPage: React.FC<IndexPageProps> = ({ inputRef }) => {
   return (
     <>
       <Head>
+        <link rel="shortcut icon" href="./favicon.ico" />
         <title>{config.title}</title>
       </Head>
 
