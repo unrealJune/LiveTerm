@@ -1,8 +1,12 @@
 import React from 'react';
 import '../styles/global.css';
 import Head from 'next/head';
+import { Analytics } from '@vercel/analytics/react';
+
+
 
 const App = ({ Component, pageProps }) => {
+  
   const inputRef = React.useRef<HTMLInputElement>(null);
 
   const onClickAnywhere = () => {
@@ -11,6 +15,8 @@ const App = ({ Component, pageProps }) => {
 
   return (
     <>
+    <Analytics />
+    
       <Head>
         <meta
           name="viewport"
